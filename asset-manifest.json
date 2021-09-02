@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.c2987748.chunk.css",
-  "main.js": "/static/js/main.d9f9c874.chunk.js",
-  "main.js.map": "/static/js/main.d9f9c874.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.d6244e21.chunk.js": "/static/js/2.d6244e21.chunk.js",
-  "static/js/2.d6244e21.chunk.js.map": "/static/js/2.d6244e21.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.6c1efb17fc0966cefc521a13d7658f5e.js": "/precache-manifest.6c1efb17fc0966cefc521a13d7658f5e.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.c2987748.chunk.css.map": "/static/css/main.c2987748.chunk.css.map",
-  "static/media/newLogo.4290bc80.svg": "/static/media/newLogo.4290bc80.svg",
-  "static/media/shopping-bag.09e6f5e7.svg": "/static/media/shopping-bag.09e6f5e7.svg"
+  "main.css": "/Shop-Online/static/css/main.c2987748.chunk.css",
+  "main.js": "/Shop-Online/static/js/main.d9f9c874.chunk.js",
+  "main.js.map": "/Shop-Online/static/js/main.d9f9c874.chunk.js.map",
+  "runtime~main.js": "/Shop-Online/static/js/runtime~main.7de54ab6.js",
+  "runtime~main.js.map": "/Shop-Online/static/js/runtime~main.7de54ab6.js.map",
+  "static/js/2.fd3b1b35.chunk.js": "/Shop-Online/static/js/2.fd3b1b35.chunk.js",
+  "static/js/2.fd3b1b35.chunk.js.map": "/Shop-Online/static/js/2.fd3b1b35.chunk.js.map",
+  "index.html": "/Shop-Online/index.html",
+  "precache-manifest.c755b53664a262ba5a0104eb4dc041c4.js": "/Shop-Online/precache-manifest.c755b53664a262ba5a0104eb4dc041c4.js",
+  "service-worker.js": "/Shop-Online/service-worker.js",
+  "static/css/main.c2987748.chunk.css.map": "/Shop-Online/static/css/main.c2987748.chunk.css.map",
+  "static/media/newLogo.4290bc80.svg": "/Shop-Online/static/media/newLogo.4290bc80.svg",
+  "static/media/shopping-bag.09e6f5e7.svg": "/Shop-Online/static/media/shopping-bag.09e6f5e7.svg"
 }
