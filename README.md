@@ -1,6 +1,8 @@
 # <h1>Shop-Online</h1>
 
 
+Here is the [link](https://charyyev2000.github.io/Shop-Online/)
+
 An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
 
 The application is composed of the following Features:
