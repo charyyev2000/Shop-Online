@@ -14,7 +14,7 @@ The application is composed of the following Features:
 * All form related fields are made using reusable components.
 * Has a cart feature which opens up and displays the items selected in a summary, also has a checkout button.
 * The cart component also allows to edit the contents of the items selected.
-* Check out features are yet to be integrated into the appplication. 
+* Check out features are yet to be integrated into the application. 
 
 
 ### Firebase
